@@ -98,3 +98,7 @@ void merge(int a, int b) {
 ```
 
 p의 초기값을 -1로 설정해두면 된다.
+
+---
+참고자료
+https://blog.naver.com/kks227/220791837179?
